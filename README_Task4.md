@@ -66,7 +66,7 @@ Text processing and classification techniques are used to detect unwanted or mal
 ---
 
 ## 👤 Author
-**Your Name**
+**Soham Sushil Parab**
 
 ---
 
