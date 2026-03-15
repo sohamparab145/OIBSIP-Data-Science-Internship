@@ -75,7 +75,7 @@ A Linear Regression model is trained to predict car prices based on these featur
 ---
 
 ## 👤 Author
-**bhuvan teja ponakala**
+**Soham Sushil Parab**
 
 ---
 
