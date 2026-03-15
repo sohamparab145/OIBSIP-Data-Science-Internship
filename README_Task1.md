@@ -69,7 +69,7 @@ The model classifies flowers into three categories:
 ---
 
 ## 👤 Author
-**bhuvan teja ponakala**
+*Soham Sushil Parab**
 
 ---
 
