@@ -68,7 +68,7 @@ A Linear Regression model is trained to predict future sales.
 ---
 
 ## 👤 Author
-**bhuvan teja ponakala**
+**Soham Sushil Parab**
 
 ---
 
